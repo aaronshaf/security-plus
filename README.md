@@ -17,12 +17,57 @@
 - Bots ([James Messer](https://www.youtube.com/watch?v=5kA2ney8r1Y&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=10))
 - RAT ([James Messer](https://www.youtube.com/watch?v=ib8Phu54VYc&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=6))
 - Logic bomb ([James Messer](https://www.youtube.com/watch?v=aUemRyeKJs4&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=11))
-- Backdoor
+- Backdoor ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12838190#overview))
 
 > Compare and contrast types of attacks.
 
-- Social engineering
+- Social engineering ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219886#overview))
+  - Phishing ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219898#overview))
+  - Spear phishing
+  - Whaling
+  - Vishing
+  - Tailgating
+  - Impersonation
+  - Dumpster diving ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview))
+  - Shoulder surfing ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview))
+  - Hoax ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview))
+  - Watering hole attack ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview), [James Messer](https://www.youtube.com/watch?v=cqvaD2Do7UI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=16))
+  - Principles (reasons for effectiveness) ([James Messer](https://www.youtube.com/watch?v=xrdYV7bXQVc&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=17))
+  - Authority
+  - Intimidation
+  - Consensus
+  - Scarcity
+  - Familiarity
+  - Trust
+  - Urgency
 - Application/service attacks
+- DoS
+- DDoS
+- Man-in-the-middle
+- Buffer overflow
+- Injection
+- Cross-site scripting
+- Cross-site request forgery
+- Privilege escalation
+- ARP poisoning
+- Amplification
+- DNS poisoning
+- Domain hijacking
+- Man-in-the-browser
+- Zero day
+- Replay
+- Pass the hash
+- Hijacking and related attacks
+  - Clickjacking
+  - Session hijacking
+  - URL hijacking
+  - Typo squatting
+- Driver manipulation
+  - Shimming
+  - Refactoring
+- MAC spoofing
+- IP spoofing
+
 - Wireless attacks
 - Cryptographic attacks
 
