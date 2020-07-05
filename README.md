@@ -5,11 +5,13 @@
 > Given a scenario, analyze indicators of compromise
 > and determine the type of malware.
 
+test
+
 - Viruses ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836596#overview))
 - Crypto-malware ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836594#overview))
 - Ransomware ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836640#overview))
-- Worm ([Jason Dion][https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836604#overview])
-- Trojan ([Jason Dion][https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836608#overview])
+- Worm ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836604#overview))
+- Trojan ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836608#overview))
 - Rootkit ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836814#overview))
 - Keylogger
 - Adware
