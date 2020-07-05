@@ -1,31 +1,27 @@
-# Security+ Resources
-
-#wgu
-
 **## Exam Objectives**
 
 **### 1.0 Threats, Attacks and Vulnerabilities**
 
-> Given a scenario, analyze indicators of compromise
+> Given a scenario, analyze indicators of compromise  
 > and determine the type of malware.
 
-- Viruses ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836596#overview))
-- Crypto-malware ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836594#overview))
-- Ransomware ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836640#overview))
-- Worm ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836604#overview))
-- Trojan ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836608#overview))
-- Rootkit ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836814#overview), [James Messer](https://www.youtube.com/watch?v=GpoWRVA4QXE&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=7))
-- Keylogger ([James Messer](https://www.youtube.com/watch?v=OqS6CDP8N2w&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=8))
-- Adware ([James Messer](https://www.youtube.com/watch?v=pO_ln-cSY0Y&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=9))
-- Spyware ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836642#overview))
-- Bots ([James Messer](https://www.youtube.com/watch?v=5kA2ney8r1Y&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=10))
-- RAT ([James Messer](https://www.youtube.com/watch?v=ib8Phu54VYc&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=6))
-- Logic bomb ([James Messer](https://www.youtube.com/watch?v=aUemRyeKJs4&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=11))
-- Backdoor ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12838190#overview))
+- Viruses ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836596#overview~))
+- Crypto-malware ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836594#overview~))
+- Ransomware ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836640#overview~))
+- Worm ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836604#overview~))
+- Trojan ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836608#overview~))
+- Rootkit ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836814#overview~), [James Messer](~https://www.youtube.com/watch?v=GpoWRVA4QXE&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=7~))
+- Keylogger ([James Messer](~https://www.youtube.com/watch?v=OqS6CDP8N2w&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=8~))
+- Adware ([James Messer](~https://www.youtube.com/watch?v=pO_ln-cSY0Y&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=9~))
+- Spyware ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12836642#overview~))
+- Bots ([James Messer](~https://www.youtube.com/watch?v=5kA2ney8r1Y&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=10~))
+- RAT ([James Messer](~https://www.youtube.com/watch?v=ib8Phu54VYc&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=6~))
+- Logic bomb ([James Messer](~https://www.youtube.com/watch?v=aUemRyeKJs4&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=11~))
+- Backdoor ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/12838190#overview~))
 
 > Compare and contrast types of attacks.
 
-- Social engineering ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219886#overview)) - Phishing ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219898#overview)) - Spear phishing - Whaling - Vishing - Tailgating - Impersonation - Dumpster diving ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview)) - Shoulder surfing ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview)) - Hoax ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview)) - Watering hole attack ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview), [James Messer](https://www.youtube.com/watch?v=cqvaD2Do7UI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=16)) - Principles (reasons for effectiveness) ([James Messer](https://www.youtube.com/watch?v=xrdYV7bXQVc&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=17)) - Authority - Intimidation - Consensus - Scarcity - Familiarity - Trust - Urgency
+- Social engineering ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219886#overview~)) - Phishing ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219898#overview~)) - Spear phishing - Whaling - Vishing - Tailgating - Impersonation - Dumpster diving ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview~)) - Shoulder surfing ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview~)) - Hoax ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview~)) - Watering hole attack ([Jason Dion](~https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview~), [James Messer](~https://www.youtube.com/watch?v=cqvaD2Do7UI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=16~)) - Principles (reasons for effectiveness) ([James Messer](~https://www.youtube.com/watch?v=xrdYV7bXQVc&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=17~)) - Authority - Intimidation - Consensus - Scarcity - Familiarity - Trust - Urgency
 - Application/service attacks - DoS ([James Messer](https://www.youtube.com/watch?v=Y9LFN4Ajw6c&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=18&t=3s)) - DDoS - Man-in-the-middle ([James Messer](https://www.youtube.com/watch?v=EHCN1uzac_w&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=19)) - Buffer overflow ([James Messer](https://www.youtube.com/watch?v=TSeqEN-ZXe4&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=20])) - Injection ([James Messer](https://www.youtube.com/watch?v=81yiRyGG29Y&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=21)) - Cross-site scripting ([James Messer](https://www.youtube.com/watch?v=AjsYOMatAcg&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=22)) - Cross-site request forgery ([James Messer](https://www.youtube.com/watch?v=rbP2jwEDlBM&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=23)) - Privilege escalation ([James Messer](https://www.youtube.com/watch?v=KDIfL6meNQs&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=24)) - ARP poisoning - Amplification - DNS poisoning ([James Messer](https://www.youtube.com/watch?v=c76GbfM_QsI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=25)) - Domain hijacking ([James Messer](https://www.youtube.com/watch?v=c76GbfM_QsI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=25)) - Man-in-the-browser - Zero day ([James Messer](https://www.youtube.com/watch?v=0zeEGYENgoo&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=27)) - Replay ([James Messer](https://www.youtube.com/watch?v=jy8USm8pIYM&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=28)) - Pass the hash - Hijacking and related attacks ([James Messer](https://www.youtube.com/watch?v=f2VK7jq-s5A&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=29)) - Clickjacking - Session hijacking - URL hijacking - Typo squatting - Driver manipulation ([James Messer](https://www.youtube.com/watch?v=yQb2A-KoA6Y&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=26)) - Shimming - Refactoring - MAC spoofing ([James Messer](https://www.youtube.com/watch?v=Esqo90Lg4PQ&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=30)) - IP spoofing ([James Messer](https://www.youtube.com/watch?v=Esqo90Lg4PQ&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=30))
 - Wireless attacks - Replay ([James Messer](https://www.youtube.com/watch?v=1Mx4Ld7PF0s&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=31)) - IV - Evil twin ([James Messer](https://www.youtube.com/watch?v=XqAn2iR9Cc0&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=32)) - Rogue AP ([James Messer](https://www.youtube.com/watch?v=XqAn2iR9Cc0&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=32)) - Jamming ([James Messer](https://www.youtube.com/watch?v=wqq_uWVqFso&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=33)) - WPS ([James Messer](https://www.youtube.com/watch?v=drHyM--ZY5c&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=34)) - Bluejacking ([James Messer](https://www.youtube.com/watch?v=ofTKPoLOxnA&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=35)) - Bluesnarfing ([James Messer](https://www.youtube.com/watch?v=ofTKPoLOxnA&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=35)) - RFID ([James Messer](https://www.youtube.com/watch?v=GXck1pf7-KE&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=36)) - NFC ([James Messer](https://www.youtube.com/watch?v=GXck1pf7-KE&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=36)) - Disassociation ([James Messer](https://www.youtube.com/watch?v=nRIND-GNiLM&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=37))
 - Cryptographic attacks ([James Messer](https://www.youtube.com/watch?v=wjcT1A2CGJo&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=38)) - Birthday - Known plain text/cipher text - Rainbow tables - Dictionary - Brute force - Online vs. offline - Collision - Downgrade - Replay - Weak implementations
@@ -90,5 +86,5 @@
 
 **## Books**
 
-- [CompTIA Security+ SY0-501 Cert Guide](https://ptgmedia.pearsoncmg.com/images/9780789758996/samplepages/9780789758996_SampleCh08.pdf) (PDF), by David L. Prowse
-- [CompTIA Security+ All-in-One Exam Guide, Fifth Edition](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf) (PDF)
+- [CompTIA Security+ SY0-501 Cert Guide](~https://ptgmedia.pearsoncmg.com/images/9780789758996/samplepages/9780789758996_SampleCh08.pdf~) (PDF), by David L. Prowse
+- [CompTIA Security+ All-in-One Exam Guide, Fifth Edition](~https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf~) (PDF)
