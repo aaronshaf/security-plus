@@ -1,3 +1,5 @@
+# CompTIA Security+ SY0-501
+
 ## Books
 
 - [CompTIA Security+ SY0-501 Cert Guide](https://ptgmedia.pearsoncmg.com/images/9780789758996/samplepages/9780789758996_SampleCh08.pdf) (PDF), by David L. Prowse
@@ -7,7 +9,7 @@
 
 ### [1.0 Threats, Attacks and Vulnerabilities](1.md)
 
-### 2.0 Technologies and Tools
+### [2.0 Technologies and Tools](2.md)
 
 ### 3.0 Architecture and Design
 
