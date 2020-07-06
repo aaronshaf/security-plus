@@ -1,4 +1,4 @@
-# CompTIA Security+ SY0-501
+# CompTIA Security+ SY0-501 Study Resources
 
 ## Books
 
@@ -18,3 +18,7 @@
 ### 5.0 Risk Management
 
 ### 6.0 Cryptography and PKI
+
+## Quizlets
+
+- [CompTIA Security+ SY0-501 Acronyms](https://quizlet.com/255156432/comptia-security-sy0-501-acronyms-flash-cards/)
