@@ -1,9 +1,5 @@
 # CompTIA Security+ SY0-501 Study Resources
 
-## Books
-
-- [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition_](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009), by Conklin, White, Cothren, David, and Williams
-
 ## Exam Objectives ([PDF](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf))
 
 ### [1.0 Threats, Attacks and Vulnerabilities](1.md)
@@ -35,3 +31,7 @@
 - [examcompass.com](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 - [Security+ Practice Tests, by Mike Chapple](https://www.amazon.com/Security-Practice-Tests-Prepare-CertMike-ebook/dp/B07N6PD4ML/) (Kindle), by Mike Chapple
 - [CompTIA Security+ Practice Tests SY0-501](https://www.amazon.com/CompTIA-Security-Practice-Tests-SY0-501-ebook/dp/B082SZRX4R/) (Kindle), by Ian Neil
+
+## Books
+
+- [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition_](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009), by Conklin, White, Cothren, David, and Williams
