@@ -28,5 +28,5 @@
   - [4.0 Identity and Access Management](https://quizlet.com/280256173/comptia-security-sy0-501-identity-and-access-management-flash-cards/)
   - [5.0 Risk Management](https://quizlet.com/281131119/comptia-security-sy0-501-risk-management-flash-cards/)
   - [6.0 Cryptography and PKI](https://quizlet.com/281819130/comptia-security-sy0-501-cryptography-and-pki-flash-cards/)
-  - [CompTIA Security+ SY0-501 Acronyms](https://quizlet.com/282666495/comptia-security-sy0-501-acronyms-flash-cards/)
+  - [Acronyms](https://quizlet.com/282666495/comptia-security-sy0-501-acronyms-flash-cards/)
   - [Ports and Protocols](https://quizlet.com/295219086/comptia-security-sy0-501-ports-and-protocols-flash-cards/)
