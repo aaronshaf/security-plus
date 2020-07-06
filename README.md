@@ -11,13 +11,13 @@
 
 ### [2.0 Technologies and Tools](2.md)
 
-### 3.0 Architecture and Design
+### [3.0 Architecture and Design](3.md)
 
-### 4.0 Identity and Access Management
+### [4.0 Identity and Access Management](4.md)
 
-### 5.0 Risk Management
+### [5.0 Risk Management](5.md)
 
-### 6.0 Cryptography and PKI
+### [6.0 Cryptography and PKI](6.md)
 
 ## Quizlets
 
