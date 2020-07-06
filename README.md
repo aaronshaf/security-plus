@@ -2,7 +2,7 @@
 
 ## Exam Objectives ([PDF](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf))
 
-The following correlates exam objectives with video resources from James Messer, Jason Dion, Mike Meyers, and Keith Barker.
+The following correlates exam objectives with video resources from James Messer, Jason Dion, and Mike Meyers.
 
 ### [1.0 Threats, Attacks and Vulnerabilities](1.md)
 
