@@ -2,7 +2,7 @@
 
 ## Books
 
-- _CompTIA Security+ All-in-One Exam Guide, Fifth Edition_ ([Kindle](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009)), by Conklin, White, Cothren, David, and Williams
+- [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition_](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009), by Conklin, White, Cothren, David, and Williams
 
 ## Exam Objectives ([PDF](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf))
 
