@@ -21,4 +21,12 @@
 
 ## Quizlets
 
+- mikeh
+  - [1.0 Threats, Attacks and Vulnerabilities](https://quizlet.com/276949579/comptia-security-sy0-501-threats-attacks-and-vulnerabilities-flash-cards/)
+  - [2.0 Technologies and Tools](https://quizlet.com/277796572/comptia-security-sy0-501-technologies-and-tools-flash-cards/)
+  - [3.0 Architecture and Design](https://quizlet.com/279488695/comptia-security-sy0-501-architecture-and-design-flash-cards/)
+  - [4.0 Identity and Access Management](https://quizlet.com/280256173/comptia-security-sy0-501-identity-and-access-management-flash-cards/)
+  - [5.0 Risk Management](https://quizlet.com/281131119/comptia-security-sy0-501-risk-management-flash-cards/)
+  - [6.0 Cryptography and PKI](https://quizlet.com/281819130/comptia-security-sy0-501-cryptography-and-pki-flash-cards/)
+  - [Ports and Protocols](https://quizlet.com/295219086/comptia-security-sy0-501-ports-and-protocols-flash-cards/)
 - [CompTIA Security+ SY0-501 Acronyms](https://quizlet.com/255156432/comptia-security-sy0-501-acronyms-flash-cards/)
