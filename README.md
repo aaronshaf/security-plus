@@ -2,6 +2,8 @@
 
 ## Exam Objectives ([PDF](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf))
 
+The following correlates exam objectives with video resources from James Messer, Jason Dion, Mike Meyers, and Keith Barker.
+
 ### [1.0 Threats, Attacks and Vulnerabilities](1.md)
 
 ### [2.0 Technologies and Tools](2.md)
@@ -26,7 +28,7 @@
   - [Acronyms](https://quizlet.com/282666495/comptia-security-sy0-501-acronyms-flash-cards/)
   - [Ports and Protocols](https://quizlet.com/295219086/comptia-security-sy0-501-ports-and-protocols-flash-cards/)
 
-## Practice tests
+## Practice Tests
 
 - [examcompass.com](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 - [Security+ Practice Tests, by Mike Chapple](https://www.amazon.com/Security-Practice-Tests-Prepare-CertMike-ebook/dp/B07N6PD4ML/) (Kindle), by Mike Chapple
