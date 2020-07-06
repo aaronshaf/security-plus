@@ -37,13 +37,13 @@
   - Hoax ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview))
   - Watering hole attack ([Jason Dion](https://www.udemy.com/program/comptia-security/learn/2015076/lecture/13219900#overview), [James Messer](https://www.youtube.com/watch?v=cqvaD2Do7UI&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=16))
   - Principles (reasons for effectiveness) ([James Messer](https://www.youtube.com/watch?v=xrdYV7bXQVc&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=17))
-  - Authority
-  - Intimidation
-  - Consensus
-  - Scarcity
-  - Familiarity
-  - Trust
-  - Urgency
+    - Authority
+    - Intimidation
+    - Consensus
+    - Scarcity
+    - Familiarity
+    - Trust
+    - Urgency
 - Application/service attacks
 - DoS ([James Messer](https://www.youtube.com/watch?v=Y9LFN4Ajw6c&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=18&t=3s))
 - DDoS
