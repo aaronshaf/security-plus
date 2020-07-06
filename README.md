@@ -29,3 +29,9 @@
   - [6.0 Cryptography and PKI](https://quizlet.com/281819130/comptia-security-sy0-501-cryptography-and-pki-flash-cards/)
   - [Acronyms](https://quizlet.com/282666495/comptia-security-sy0-501-acronyms-flash-cards/)
   - [Ports and Protocols](https://quizlet.com/295219086/comptia-security-sy0-501-ports-and-protocols-flash-cards/)
+
+## Practice tests
+
+- [examcompass.com](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
+- [Security+ Practice Tests, by Mike Chapple](https://www.amazon.com/Security-Practice-Tests-Prepare-CertMike-ebook/dp/B07N6PD4ML/) (Kindle), by Mike Chapple
+- [CompTIA Security+ Practice Tests SY0-501](https://www.amazon.com/CompTIA-Security-Practice-Tests-SY0-501-ebook/dp/B082SZRX4R/) (Kindle), by Ian Neil
