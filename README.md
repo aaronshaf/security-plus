@@ -35,6 +35,11 @@ The following correlates exam objectives with video resources from James Messer,
 - [CompTIA Security+ Practice Tests SY0-501](https://www.amazon.com/CompTIA-Security-Practice-Tests-SY0-501-ebook/dp/B082SZRX4R/) (Kindle), by Ian Neil
 - [CompTIA Security+ (SY0-501) Practice Exams with Simulations](https://www.udemy.com/course/comptia-security-practice-exams/)
 
+## Videos
+
+- [CompTIA Security+ SY0-501 Training Course](https://www.youtube.com/watch?v=hZ2voph67v8&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=95) (James Messer)
+- [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
+
 ## Books
 
 - [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition_](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009), by Conklin, White, Cothren, David, and Williams
