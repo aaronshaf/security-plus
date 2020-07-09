@@ -38,7 +38,7 @@ The following correlates exam objectives with video resources from James Messer,
 ## Videos
 
 - [CompTIA Security+ SY0-501 Training Course](https://www.youtube.com/watch?v=hZ2voph67v8&list=PL5ysgoFoCpZEM8cboeHdRDePc2bOU9CN1&index=95) (James Messer)
-- [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
+- [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs) (My CS)
 
 ## Books
 
