@@ -16,4 +16,5 @@
 - IMAP4: Internet message access protocol version 4 - 143
 - SNMP: Simple Network Management Protocol - 161
 - IPsec: Internet Protocol security (through the use of ISAKMP: Internet Security Association and Key Management Protocol) - 500
+- RADIUS - UDP port 1812
 - RDP: Remote Desktop Protocol - 3389
