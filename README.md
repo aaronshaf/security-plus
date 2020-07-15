@@ -16,6 +16,8 @@ The following notes correlate exam objectives with video resources from James Me
 
 ### [6.0 Cryptography and PKI](6.md)
 
+### [Ports](ports.md)
+
 ## Quizlets
 
 - mikeh
