@@ -23,6 +23,9 @@
 - "AES, DES, RC4, and 3DES are all symmetric encryption algorithms."
 - Smurf: Occurs when a combination of IP spoofing and ICMP messages saturate a network.
 - "Proper external security testing should be conducted from outside the organization's security perimeter."
+- "MAC flooding sends many packets to a switch, each of which has a different source MAC address, in an attempt to use up the memory on the switch, changing the state of the switch to fail-open mode, which ultimately makes it function as a hub."
+- "Kiting is the practice of monopolizing domain names without paying for them. Newly registered domain names can be canceled with a full refund during an initial five-day window known as an AGP, or add grace period."
+- "WPA was created to fix core problems with WEP. WPA is designed to work with older wireless clients while implementing the 802.11i standard."
 
 ## Needs definition
 
