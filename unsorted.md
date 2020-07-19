@@ -28,3 +28,13 @@
 - "WPA was created to fix core problems with WEP. WPA is designed to work with older wireless clients while implementing the 802.11i standard."
 - CASB: Cloud Access Security Broker
   "If there is a mix of on-premises infrastructure and cloud-provider infrastructure, a company might consider a cloud access security broker (CASB). A CASB is a software tool or service that acts as the gatekeeper between the two, allowing the company to extend the reach of its security policies beyond its internal infrastructure."
+- "TCP Wrapper is a host-based ACL program that provides protection against host name and host address spoofing in Linux and Unix environments."
+
+## CIDR - available hosts
+
+- /25 -- 2^32-25 - 2 = 126
+- /26 -- 2^32-26 - 2 = 62
+- /27 -- 2^32-27 - 2 = 30
+- /28 -- 2^32-28 - 2 = 14
+- /29 -- 2^32-29 - 2 = 6
+- /30 -- 2^32-30 - 2 = 2
