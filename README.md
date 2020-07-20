@@ -52,3 +52,5 @@ The following notes correlate exam objectives with video resources from James Me
 ![Hashing algorithms](charts/hashing-algorithms.png)
 
 ![Certificate formats](charts/certificate-formats.png)
+
+![Block cipher modes](charts/block-cipher-modes.png)
