@@ -50,3 +50,5 @@ The following notes correlate exam objectives with video resources from James Me
 ## Charts
 
 ![Hashing algorithms](charts/hashing-algorithms.png)
+
+![Certificate formats](charts/certificate-formats.png)
