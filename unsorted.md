@@ -30,6 +30,16 @@
   "If there is a mix of on-premises infrastructure and cloud-provider infrastructure, a company might consider a cloud access security broker (CASB). A CASB is a software tool or service that acts as the gatekeeper between the two, allowing the company to extend the reach of its security policies beyond its internal infrastructure."
 - "TCP Wrapper is a host-based ACL program that provides protection against host name and host address spoofing in Linux and Unix environments."
 - "Footprinting occurs when network data is gathered to discover ways to intrude on the network."
+- "Routers operate at the Network layer (Layer 3) of the OSI networking model."
+- "Piggybacking is the act of gaining unauthorized access to a facility by using another user's access credentials."
+- "A collision attack combines brute force attacks, each with a different input, to produce the same hash value."
+- "A baseline defines the minimum level of security and performance of a system in an organization."
+- "Hyperlink spoofing, which is also referred to as Web spoofing, is used by an attacker to persuade the Internet browser to connect to a fake server that appears as a valid session. "
+- "You should implement every computer on the demilitarized zone (DMZ) as a bastion host because any system on the DMZ can be compromised."
+
+## Wikipedia
+
+- "A bastion host is a special-purpose computer on a network specifically designed and configured to withstand attacks."
 
 ## CIDR - available hosts
 
