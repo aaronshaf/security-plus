@@ -54,5 +54,3 @@ The following notes correlate exam objectives with video resources from James Me
 ![Certificate formats](charts/certificate-formats.png)
 
 ![Block cipher modes](charts/block-cipher-modes.png)
-
-.
