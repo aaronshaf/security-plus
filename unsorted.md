@@ -1,5 +1,7 @@
 ## uCertify
 
+_Aaron's note: I suspect that some of this material isn't on the Security+ exam, even though it is under the umbrella of uCertify's Security+ curriculum."_
+
 - Metrics are the "best indication of the success of the program."
 - 802.1X "makes use of a supplicant, authenticator, and authentication server".
 - AES and TKIP are supported by the 802.11i standard.
@@ -36,10 +38,15 @@
 - "A baseline defines the minimum level of security and performance of a system in an organization."
 - "Hyperlink spoofing, which is also referred to as Web spoofing, is used by an attacker to persuade the Internet browser to connect to a fake server that appears as a valid session. "
 - "You should implement every computer on the demilitarized zone (DMZ) as a bastion host because any system on the DMZ can be compromised."
+- "Data control language (DCL) implements security through access control and granular restrictions."
 
 ## Wikipedia
 
 - "A bastion host is a special-purpose computer on a network specifically designed and configured to withstand attacks."
+
+# Other
+
+- SFC: System File Checker in Windows
 
 ## CIDR - available hosts
 

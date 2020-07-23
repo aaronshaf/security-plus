@@ -54,3 +54,9 @@ The following notes correlate exam objectives with video resources from James Me
 ![Certificate formats](charts/certificate-formats.png)
 
 ![Block cipher modes](charts/block-cipher-modes2.png)
+
+![Evidence life cycle](charts/evidence-life-cycle.png)
+
+## Future Maintainers
+
+I (Aaron) passed the test. If someone would like improve upon this repository please create an issue and I can make you a collaborator.
