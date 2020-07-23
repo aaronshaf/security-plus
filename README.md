@@ -32,11 +32,11 @@ The following notes correlate exam objectives with video resources from James Me
 
 ## Practice Tests
 
-- [passcomptia.com](https://passcomptia.com/comptia-security/)
-- [examcompass.com](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 - [Security+ Practice Tests, by Mike Chapple](https://www.amazon.com/Security-Practice-Tests-Prepare-CertMike-ebook/dp/B07N6PD4ML/) (Kindle), by Mike Chapple
 - [CompTIA Security+ Practice Tests SY0-501](https://www.amazon.com/CompTIA-Security-Practice-Tests-SY0-501-ebook/dp/B082SZRX4R/) (Kindle), by Ian Neil
 - [CompTIA Security+ (SY0-501) Practice Exams with Simulations](https://www.udemy.com/course/comptia-security-practice-exams/)
+- [passcomptia.com](https://passcomptia.com/comptia-security/)
+- [examcompass.com](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
 ## Videos
 
