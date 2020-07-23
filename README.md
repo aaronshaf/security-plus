@@ -71,4 +71,4 @@ The following notes correlate exam objectives with video resources from James Me
 
 ## Future Maintainers
 
-I (Aaron) passed the test. If someone would like improve upon this repository please create an issue and I can make you a collaborator.
+I (Aaron) passed the test (840/900). If someone would like improve upon this repository please create an issue and I can make you a collaborator.
