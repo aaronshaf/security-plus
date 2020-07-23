@@ -57,7 +57,7 @@ The following notes correlate exam objectives with video resources from James Me
 
 ![Evidence life cycle](charts/evidence-life-cycle.png)
 
-# What I Learned
+## What I Learned
 
 - I listened to all of James Messer's videos, most of Jason Dion's course on Udemy (get it cheap by opening a private browser tab), and some of Mike Meyers' videos.
 - Videos by Mike Meyers were helpful when I needed a break from Messer's and Dion's. Messer was most straightforward to the exam objectives. Meyers the least.
