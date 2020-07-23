@@ -57,6 +57,18 @@ The following notes correlate exam objectives with video resources from James Me
 
 ![Evidence life cycle](charts/evidence-life-cycle.png)
 
+# What I Learned
+
+- I listened to all of James Messer's videos, most of Jason Dion's course on Udemy (get it cheap by opening a private browser tab), and some of Mike Meyers' videos.
+- Videos by Mike Meyers were helpful when I needed a break from Messer's and Dion's. Messer was most straightforward to the exam objectives. Meyers the least.
+- Where the videos were not helpful in unpacking the exam objectives, I fell back on the book, [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition (Exam SY0-501)_](https://www.amazon.com/gp/product/B07893H98L)
+- Know your basic [ports](https://github.com/aaronshaf/security-plus/blob/master/ports.md). This was important for the lab questions.
+- The [CompTIA Security+ Test](https://play.google.com/store/apps/details?id=com.abc.comptiasecurityplus&hl=en_US) app for Android was phenomenal. Get it.
+- If you're a WGU student: uCertify material was comparatively not helpful.
+- Kaplan practice tests seemed to cover a lot of material that categorically wasn't on the exam.
+- Jason Dion's practice exams on Udemy were helpful.
+- Don't disproportionately stress about the "6. Cryptography and PKI" section -- study broadly across all sections.
+
 ## Future Maintainers
 
 I (Aaron) passed the test. If someone would like improve upon this repository please create an issue and I can make you a collaborator.
