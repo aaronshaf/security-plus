@@ -46,6 +46,7 @@ The following notes correlate exam objectives with video resources from James Me
 ## Books
 
 - [_CompTIA Security+ All-in-One Exam Guide, Fifth Edition_](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501-ebook-dp-B07893H98L/dp/B07893H98L/ref=mt_other?_encoding=UTF8&me=&qid=1594008009), by Conklin, White, Cothren, David, and Williams
+- CompTIA Security+ Review Guide by James M. Stewart
 
 ## Charts
 
