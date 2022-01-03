@@ -72,4 +72,4 @@ The following notes correlate exam objectives with video resources from James Me
 
 ## Future Maintainers
 
-I (Aaron) passed the test (840/900). If someone would like improve upon this repository please create an issue and I can make you a collaborator.
+I (Aaron) [passed](https://www.reddit.com/r/WGU/comments/hw6y4c/passed_c178_security_840900/) the test (840/900). If someone would like improve upon this repository please create an issue and I can make you a collaborator.
